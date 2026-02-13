@@ -70,6 +70,7 @@ expense-tracker/
 - Login & User Accounts
 - Monthly Expense Reports
 - Category-wise Analysis
+- Cloud Database Storage
   
 
 ---
