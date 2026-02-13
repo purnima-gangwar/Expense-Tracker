@@ -41,7 +41,41 @@ expense-tracker/
 ---
 
 ## 📸 Screenshots
+![Desktop View](screenshots/Desktop.png)
 
-### 🖥 Desktop View
+![Dark Mode](screenshots/Darkmode.png)
+
+![Expense Add](screenshots/ExpenseAdd.png)
+
+![Chart View](screenshots/Chart_View.png)
+
+![Mobile Responsive](screenshots/Mobile_Responsive.png)
+
+![Search Transaction](screenshots/Search_Transaction.png)
+
+![Export Report](screenshots/Export_Report.png)
+
+---
+
+## ⚙️ How to Run Project
+
+1. Download or clone the repository
+2. Open project folder
+3. Open 'index.html' in browser
+
+---
+
+## 📌 Future Improvements
+
+- Login & User Accounts
+- Monthly Expense Reports
+- Category-wise Analysis
+  
+
+---
+
+## 👩‍💻 Author
+
+**Purnima Gangwar**
 
 
