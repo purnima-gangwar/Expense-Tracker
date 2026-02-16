@@ -26,6 +26,7 @@ Users can add income and expenses, view balance updates, and download transactio
 - JavaScript
 - Chart.js
 - Local Storage for saving data
+- Media Query
 
 ---
 
