@@ -75,8 +75,7 @@ expense-tracker/
 
 ---
 
-## 👩‍💻 Author:
+## 👩‍💻 Author: Purnima Gangwar
 
-- Purnima Gangwar
 
 
