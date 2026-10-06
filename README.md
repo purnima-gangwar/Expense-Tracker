@@ -30,8 +30,7 @@ Users can add income and expenses, view balance updates, and download transactio
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Project Structure:
 expense-tracker/
 │
 ├── index.html
