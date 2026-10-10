@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Web App
+# 💰 Expense Tracker
 
 A simple and responsive Expense Tracker web application built using HTML, CSS, and JavaScript.  
 Users can add income and expenses, view balance updates, and download transaction reports.
